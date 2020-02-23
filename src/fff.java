@@ -6,5 +6,7 @@ public class fff {
 
         int n= r+ a+b+c;
         System.out.print(n);
+
+        String ftalah;
     }
 }
